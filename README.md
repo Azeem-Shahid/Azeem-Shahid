@@ -110,7 +110,7 @@
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/assets/cards/1-repos-per-language.svg" width="100%"/>
 
 </td>
 </tr>
@@ -326,7 +326,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+<img width="95%" src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/assets/cards/0-profile-details.svg"/>
 
 </div>
 
