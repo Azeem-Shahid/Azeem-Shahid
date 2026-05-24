@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+React.js+%7C+Flutter;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+Blockchain+Payment+Gateway+Developer;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+React.js+%7C+Flutter;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+Blockchain+Payment+Gateway+Developer;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
 
 </div>
 
@@ -80,7 +80,7 @@
 </div>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azeem-Shahid&theme=tokyonight&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=Azeem-Shahid&theme=tokyonight&hide_border=true" width="90%"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@
 </td>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azeem-Shahid&theme=tokyonight" width="100%"/>
+<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%"/>
 
 </td>
 </tr>
@@ -326,14 +326,14 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azeem-Shahid&theme=tokyonight"/>
+<img width="95%" src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azeem-Shahid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeem-Shahid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-dun.vercel.app/api?username=Azeem-Shahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-dun.vercel.app/api/top-langs/?username=Azeem-Shahid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -358,7 +358,11 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 </div>
 
 ---
