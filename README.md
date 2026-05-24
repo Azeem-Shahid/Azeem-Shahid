@@ -295,26 +295,9 @@
 
 ### ⚙️ CI/CD Pipeline Flow
 
-```
-Code Push to GitHub
-        ↓
-GitHub Actions Triggers
-        ↓
-notify-start → Creates scan in SecureOps dashboard
-        ↓
-┌────────────────────────────────────────────────────┐
-│  5 Scanners in PARALLEL                            │
-│  SonarQube · Trivy · OWASP · Semgrep · Gitleaks   │
-└────────────────────────────────────────────────────┘
-        ↓
-Quality Gate → BLOCKS deploy if critical/high vulns exceed threshold
-        ↓
-Results → SecureOps dashboard (real-time webhook)
-        ↓
-Claude AI → explains each Critical/High vuln + fix
-        ↓
-PDF report generated with full security score
-```
+<div align="center">
+<img src="./cicd-flow.svg" width="100%"/>
+</div>
 
 ### 👥 Role-Based Access Control
 
@@ -333,17 +316,9 @@ PDF report generated with full security score
 
 ### 🏗️ Infrastructure Architecture
 
-```
-secureops.dev (443)  ·  sonar.secureops.dev (443)
-                      ↓
-              Nginx Reverse Proxy
-                      ↓
-    Backend:3000  ·  Postgres:5432  ·  SonarQube:9000
-                      ↓
-              Docker Compose Stack
-     Hostinger VPS — Ubuntu 22.04
-     Only ports 80 & 443 are public
-```
+<div align="center">
+<img src="./infrastructure.svg" width="100%"/>
+</div>
 
 ---
 
