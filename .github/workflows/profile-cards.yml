@@ -1,29 +1,29 @@
-name: Profile Summary Cards
+name: Refresh Profile Cards
 
 on:
   schedule:
   - cron: 0 6 * * *
   workflow_dispatch:
-  push:
-    branches:
-    - main
-    paths:
-    - .github/workflows/profile-cards.yml
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
     steps:
     - uses: actions/checkout@v4
 
-    - uses: vn7n24fzkq/github-profile-summary-cards@release
-      with:
-        USERNAME: Azeem-Shahid
-        BRANCH_NAME: main
-        UTC_OFFSET: 5
-        EXCLUDE: ""
-        AUTO_PUSH: true
+    - name: Download latest cards
+      run: |
+        mkdir -p assets/cards
+        curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azeem-Shahid&theme=tokyonight" -o assets/cards/0-profile-details.svg
+        curl -sL "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azeem-Shahid&theme=tokyonight" -o assets/cards/1-repos-per-language.svg
+
+    - name: Commit updated cards
+      run: |
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add assets/cards
+        git diff --staged --quiet || git commit -m "chore: refresh profile summary cards"
+        git push
