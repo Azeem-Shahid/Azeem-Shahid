@@ -1,0 +1,65 @@
+<svg width="680" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="200" rx="14" fill="#0D1117"/>
+  <line x1="0" y1="100" x2="680" y2="100" stroke="#ffffff" stroke-width="0.3" opacity="0.06"/>
+  <text x="340" y="28" text-anchor="middle" font-family="monospace" font-size="13" font-weight="500" fill="#00F7FF" opacity="0.85">SecureOps — Automated Security Pipeline</text>
+  <rect x="20" y="55" width="80" height="44" rx="8" fill="#0F2027" stroke="#00F7FF" stroke-width="0.8"/>
+  <text x="60" y="73" text-anchor="middle" font-family="monospace" font-size="11" font-weight="500" fill="#00F7FF">Code</text>
+  <text x="60" y="88" text-anchor="middle" font-family="monospace" font-size="10" fill="#7ecfcf">Push</text>
+  <line x1="101" y1="77" x2="122" y2="77" stroke="#00F7FF" stroke-width="1" opacity="0.6"/>
+  <polygon points="122,73 130,77 122,81" fill="#00F7FF" opacity="0.6"/>
+  <rect x="131" y="55" width="90" height="44" rx="8" fill="#0F2027" stroke="#2088FF" stroke-width="0.8"/>
+  <text x="176" y="73" text-anchor="middle" font-family="monospace" font-size="11" font-weight="500" fill="#2088FF">GitHub</text>
+  <text x="176" y="88" text-anchor="middle" font-family="monospace" font-size="10" fill="#7aadee">Actions</text>
+  <line x1="222" y1="77" x2="243" y2="77" stroke="#2088FF" stroke-width="1" opacity="0.6"/>
+  <polygon points="243,73 251,77 243,81" fill="#2088FF" opacity="0.6"/>
+  <line x1="252" y1="77" x2="252" y2="30" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="252" y1="77" x2="252" y2="124" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="252" y1="30" x2="262" y2="30" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <polygon points="262,27 268,30 262,33" fill="#aaaaaa" opacity="0.4"/>
+  <line x1="252" y1="56" x2="262" y2="56" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <polygon points="262,53 268,56 262,59" fill="#aaaaaa" opacity="0.4"/>
+  <line x1="252" y1="77" x2="262" y2="77" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <polygon points="262,74 268,77 262,80" fill="#aaaaaa" opacity="0.4"/>
+  <line x1="252" y1="98" x2="262" y2="98" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <polygon points="262,95 268,98 262,101" fill="#aaaaaa" opacity="0.4"/>
+  <line x1="252" y1="124" x2="262" y2="124" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <polygon points="262,121 268,124 262,127" fill="#aaaaaa" opacity="0.4"/>
+  <rect x="269" y="18" width="82" height="24" rx="6" fill="#1a2a3a" stroke="#4E9BCD" stroke-width="0.7"/>
+  <text x="310" y="34" text-anchor="middle" font-family="monospace" font-size="10" fill="#4E9BCD">SonarQube</text>
+  <rect x="269" y="44" width="82" height="24" rx="6" fill="#1a2a3a" stroke="#6b8eee" stroke-width="0.7"/>
+  <text x="310" y="60" text-anchor="middle" font-family="monospace" font-size="10" fill="#6b8eee">Trivy</text>
+  <rect x="269" y="66" width="82" height="24" rx="6" fill="#1a2a3a" stroke="#aaaaaa" stroke-width="0.7"/>
+  <text x="310" y="82" text-anchor="middle" font-family="monospace" font-size="10" fill="#cccccc">OWASP DC</text>
+  <rect x="269" y="88" width="82" height="24" rx="6" fill="#1a2a3a" stroke="#FC4B08" stroke-width="0.7"/>
+  <text x="310" y="104" text-anchor="middle" font-family="monospace" font-size="10" fill="#FC4B08">Semgrep</text>
+  <rect x="269" y="112" width="82" height="24" rx="6" fill="#1a2a3a" stroke="#FF4444" stroke-width="0.7"/>
+  <text x="310" y="128" text-anchor="middle" font-family="monospace" font-size="10" fill="#FF4444">Gitleaks</text>
+  <line x1="351" y1="30" x2="358" y2="30" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="351" y1="56" x2="358" y2="56" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="351" y1="77" x2="358" y2="77" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="351" y1="98" x2="358" y2="98" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="351" y1="124" x2="358" y2="124" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="358" y1="30" x2="358" y2="124" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <line x1="358" y1="77" x2="373" y2="77" stroke="#aaaaaa" stroke-width="0.5" opacity="0.4"/>
+  <polygon points="373,74 379,77 373,80" fill="#aaaaaa" opacity="0.4"/>
+  <rect x="380" y="55" width="82" height="44" rx="8" fill="#0F2027" stroke="#F5A623" stroke-width="0.9"/>
+  <rect x="410" y="68" width="16" height="12" rx="3" fill="none" stroke="#F5A623" stroke-width="1.2"/>
+  <path d="M412 68 Q412 63 418 63 Q424 63 424 68" fill="none" stroke="#F5A623" stroke-width="1.2"/>
+  <circle cx="418" cy="74" r="2" fill="#F5A623"/>
+  <text x="421" y="94" text-anchor="middle" font-family="monospace" font-size="10" fill="#F5A623">Quality Gate</text>
+  <line x1="463" y1="77" x2="478" y2="77" stroke="#F5A623" stroke-width="1" opacity="0.7"/>
+  <polygon points="478,73 486,77 478,81" fill="#F5A623" opacity="0.7"/>
+  <rect x="487" y="55" width="76" height="44" rx="8" fill="#0F2027" stroke="#a78bfa" stroke-width="0.8"/>
+  <path d="M510 65 Q521 61 532 65 L532 75 Q521 83 510 79 Z" fill="none" stroke="#a78bfa" stroke-width="1.1"/>
+  <text x="525" y="94" text-anchor="middle" font-family="monospace" font-size="10" fill="#a78bfa">Claude AI</text>
+  <line x1="564" y1="77" x2="578" y2="77" stroke="#a78bfa" stroke-width="1" opacity="0.7"/>
+  <polygon points="578,73 586,77 578,81" fill="#a78bfa" opacity="0.7"/>
+  <rect x="587" y="55" width="82" height="44" rx="8" fill="#0F2027" stroke="#00ff88" stroke-width="0.9"/>
+  <rect x="597" y="74" width="5" height="11" rx="1" fill="#00ff88" opacity="0.8"/>
+  <rect x="604" y="68" width="5" height="17" rx="1" fill="#00ff88" opacity="0.9"/>
+  <rect x="611" y="71" width="5" height="14" rx="1" fill="#00ff88" opacity="0.8"/>
+  <text x="641" y="77" text-anchor="middle" font-family="monospace" font-size="10" font-weight="500" fill="#00ff88">Dashboard</text>
+  <text x="641" y="91" text-anchor="middle" font-family="monospace" font-size="10" fill="#7dddb0">+PDF Report</text>
+  <text x="310" y="154" text-anchor="middle" font-family="monospace" font-size="10" fill="#ffffff" opacity="0.35">5 scanners in parallel</text>
+  <text x="340" y="178" text-anchor="middle" font-family="monospace" font-size="11" fill="#ffffff" opacity="0.22">Automated · AI-Powered · Role-Based · Production-Grade</text>
+</svg>
