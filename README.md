@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+React.js+%7C+Flutter;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+Blockchain+Payment+Gateway+Developer;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+React.js+%7C+Flutter;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+Blockchain+Payment+Gateway+Developer;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
 
 </div>
 
