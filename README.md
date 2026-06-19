@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+React.js+%7C+Flutter;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+Blockchain+Payment+Gateway+Developer;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+Next.js+%7C+Node.js;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+Blockchain+Payment+Gateway+Developer;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
 
 </div>
 
@@ -40,7 +40,7 @@
 
 🛡️ Building DevSecOps platforms with automated security scanning pipelines and AI-powered vulnerability analysis.
 
-💡 Obsessed with performance optimization, clean UI/UX, and scalable APIs.
+💡 Obsessed with performance optimization, clean code, and scalable APIs.
 
 🛠 Skilled in Linux servers, VPS management, CI/CD workflows and production deployments.
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,react,vue,nodejs,flutter,dart,mysql,postgres,docker,nginx,linux,git,github,postman,tailwind,bootstrap,js,html,css&perline=10" />
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,nodejs,nextjs,mysql,postgres,docker,nginx,linux,git,github,postman,tailwind,bootstrap,js,html,css&perline=10" />
 
 </div>
 
@@ -72,7 +72,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
@@ -101,7 +101,7 @@
 
 - REST API Development
 - Authentication Systems (JWT, OAuth)
-- Database Optimization
+- Database Design & Optimization
 - Payment Gateway Integration
 - Queue Management
 - Secure Backend Architecture
@@ -147,7 +147,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=dart" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
@@ -163,31 +164,11 @@
 
 | Year | Company | Role | Focus |
 |:----:|:--------|:-----|:------|
-| 2023 | BGNU IT Department | IT Intern | CMS & Portal Systems |
-| 2024 | Novatechshole | Fullstack Developer | APIs & Web Systems |
-| 2025 | Inverzo Tech | CEO & Co-Founder | Blockchain + DevSecOps |
+| 2023 | BGNU IT Department | IT Intern | CMS Modules & Job Portal |
+| 2024 | Novatechshole | Fullstack Developer | APIs, Fintech & Web Systems |
+| 2025 | Inverzo Tech | Fullstack Developer | Blockchain + DevSecOps |
 
 </div>
-
----
-
-# 🏢 Current Role — Inverzo Tech
-
-<div align="center">
-
-## 🚀 Co-Founder & Fullstack Developer
-
-</div>
-
-### ⚡ Responsibilities
-
-✔ Leading full-stack development projects  
-✔ Architecting scalable backend infrastructures  
-✔ Managing international client projects  
-✔ Building blockchain-based payment systems  
-✔ Developing SecureOps — DevSecOps security platform  
-✔ Designing modern frontend experiences  
-✔ Deploying and maintaining production VPS servers  
 
 ---
 
@@ -204,14 +185,14 @@
 
 | Feature | Detail |
 |:--------|:-------|
-| 🔍 Scanners | 5 running in parallel |
+| 🔍 Scanners | 5 security scanners |
 | 🤖 AI | Claude-powered vuln analysis |
 | 📊 Dashboard | Centralized, real-time |
 | 🔒 Access | Role-based control (RBAC) |
 | 📄 Reports | PDF export |
 | ⚙️ CI/CD | GitHub Actions integration |
 
-🌐 `secureops.dev` · ⚡ **Status: Production**
+🎓 **Status: Academic / Research Project**
 
 </td>
 <td width="33%" valign="top">
@@ -235,15 +216,15 @@
 ## 📱 FindUpNow
 ### Multi-Platform Application
 
-| Platform | Status |
-|:---------|:------:|
-| Android App | 🚀 |
-| iOS Application | 🚀 |
-| Web Dashboard | 🚀 |
-| Backend APIs | 🚀 |
-| Intl. Deployment | 🌍 |
+| Tech | Layer |
+|:-----|:------|
+| React Native | Mobile |
+| Next.js | Web |
+| Node.js | Backend |
+| REST APIs | Integration |
 
-🌍 **Built for Global Clients**
+🌍 **Built with International Team**
+⚡ **Status: Under Development**
 
 </td>
 </tr>
@@ -268,8 +249,8 @@
 | Layer | Technology |
 |:------|:-----------|
 | Backend | Node.js · Express · Prisma |
-| Frontend | React + Nginx |
-| Database | PostgreSQL |
+| Frontend | Next.js + Nginx |
+| Database | PostgreSQL 15 |
 | Infrastructure | Docker · Docker Compose |
 | Proxy / TLS | Nginx + Let's Encrypt |
 | CI/CD | GitHub Actions |
@@ -374,12 +355,12 @@
 | Achievement | Badge |
 |:------------|:-----:|
 | Fiverr Level 1 Seller | ✅ |
-| International Clients | 🌍 |
+| International Clients (NL & PH) | 🌍 |
 | Blockchain Developer | 🔗 |
 | Fullstack Engineer | ⚡ |
-| Co-Founder @ Inverzo Tech | 🚀 |
 | DevSecOps Platform Builder | 🛡️ |
 | Production VPS Architect | 🏗️ |
+| Fintech Platform (45k+ Users) | 💳 |
 | AI-Integrated App Developer | 🤖 |
 
 </div>
@@ -392,6 +373,7 @@
 
 <img src="https://img.shields.io/badge/BS%20Computer%20Science-0A192F?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/CGPA-3.56%20%2F%204.0-00C2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Expected%20Graduation-2026-00C2FF?style=for-the-badge" />
 
 ### 🏫 Baba Guru Nanak University
 
