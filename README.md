@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+Next.js+%7C+Node.js;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+Blockchain+Payment+Gateway+Developer;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+Next.js+%7C+Node.js;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+VeriPay+%E2%80%94+Multi-Tenant+Crypto+Payment+Gateway+%28FYP%29;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
 
 </div>
 
@@ -36,7 +36,7 @@
 
 ⚡ Specialized in modern backend architectures, frontend systems, and cloud deployment.
 
-🔗 Experienced in blockchain integrations and crypto payment infrastructures.
+🔗 Building VeriPay — a multi-tenant crypto payment gateway with a research-grade Trust & Integrity Layer (FYP).
 
 🛡️ Building DevSecOps platforms with automated security scanning pipelines and AI-powered vulnerability analysis.
 
@@ -167,6 +167,7 @@
 | 2023 | BGNU IT Department | IT Intern | CMS Modules & Job Portal |
 | 2024 | Novatechshole | Fullstack Developer | APIs, Fintech & Web Systems |
 | 2025 | Inverzo Tech | Fullstack Developer | Blockchain + DevSecOps |
+| 2025–2026 | BGNU (FYP) | Student / Researcher | VeriPay — crypto gateway + trust & integrity layer |
 
 </div>
 
@@ -197,18 +198,19 @@
 </td>
 <td width="33%" valign="top">
 
-## 🔗 Inverzo Gateway
-### Blockchain Payment Infrastructure
+## 🔐 VeriPay
+### Multi-Tenant Crypto Payment Gateway
 
 | Feature | Detail |
 |:--------|:-------|
-| ✨ BEP-20 | Binance Smart Chain |
-| ✨ TRC-20 | TRON network support |
-| ✨ Crypto | Multi-token transactions |
-| ✨ APIs | Web payment integration |
-| ✨ Wallets | Secure connectivity |
+| ✨ BEP-20 | Binance Smart Chain (BscScan + RPC) |
+| ✨ TRC-20 | TRON network (TronGrid) |
+| 🛡️ Trust Layer | Anomaly detection + reconciliation + trust scoring |
+| 🧪 Injection Harness | Synthetic fraud injection for detection-rate benchmarking |
+| 🔑 Security | HMAC-signed APIs, encrypted wallets, rate limiting |
+| 🧵 Stack | Laravel 11, Inertia.js, Vue 3, MySQL, Redis, Horizon |
 
-⚡ **Status: In Development**
+🎓 **Status: Final Year Project (BS Computer Science) — Academic/Research**
 
 </td>
 <td width="33%" valign="top">
@@ -216,12 +218,12 @@
 ## 📱 FindUpNow
 ### Multi-Platform Application
 
-| Tech | Layer |
-|:-----|:------|
-| React Native | Mobile |
-| Next.js | Web |
-| Node.js | Backend |
-| REST APIs | Integration |
+| Feature | Detail |
+|:--------|:-------|
+| 📱 Mobile | React Native |
+| 🌐 Web | Next.js |
+| ⚙️ Backend | Node.js |
+| 🔗 Integration | REST APIs |
 
 🌍 **Built with International Team**
 ⚡ **Status: Under Development**
@@ -229,6 +231,20 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+# 🌐 Live Projects
+
+<div align="center">
+
+| Project | Description |
+|:--------|:------------|
+| [Reffinatto](https://reffinatto.com) | Bespoke interior design brand |
+| [Johnstown Courier](https://johnstowncourier.com) | Same-day courier web app |
+| [Quality Used Organs](https://quality-organ.leadlife.net) | Used auto organs marketplace |
 
 </div>
 
@@ -303,6 +319,58 @@
 
 ---
 
+# 🔐 VeriPay — Deep Dive
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1A2E&height=80&text=Multi-Tenant%20USDT%20Gateway%20%7C%20Trust%20%26%20Integrity%20Layer%20%7C%20TRC-20%20%2B%20BEP-20&fontSize=18&fontColor=00F7FF&animation=fadeIn" width="100%"/>
+</p>
+
+Self-hosted, multi-tenant USDT payment gateway supporting TRC-20 and BEP-20, built with a research-grade **Trust & Integrity Layer** as its core academic contribution.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Tech Stack
+
+| Layer | Technology |
+|:------|:-----------|
+| Backend | Laravel 11, PHP 8.2 |
+| SPA | Inertia.js + Vue 3.5 + Pinia |
+| Queues | Redis + Laravel Horizon |
+| DB | MySQL 8 |
+| Static Analysis | Larastan (level 6) |
+| Blockchain | TronGrid API (TRC-20), BscScan + BSC RPC (BEP-20) |
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Trust & Integrity Layer
+
+| Component | Purpose |
+|:----------|:--------|
+| Security Audit Engine | Scheduled Larastan + Composer Audit, stored findings |
+| Rule-Based Anomaly Detection | Velocity, amount deviation, rapid-repeat address, time-of-day, webhook spike, dormant wallet |
+| Blockchain Reconciliation | On-chain vs off-chain diff (7-day lookback) |
+| Composite Merchant Trust Score | Penalty model, 0–100 (A≥90, B≥75, C≥60, D≥40, F&lt;40) |
+| Synthetic Fraud Injection | `trust:inject` — detection-rate benchmarking |
+
+</td>
+</tr>
+</table>
+
+### 🔑 Security Highlights
+
+- HMAC-SHA256 signed API requests with ±300s replay window
+- Wallet private keys encrypted at rest (AES via Laravel `Crypt`)
+- Global `MerchantScope` enforcing tenant isolation across all models
+- Retryable webhooks with exponential backoff + dead-letter queue
+- Rate limiting per API key and per IP
+
+🎓 **Status:** Final Year Project — Baba Guru Nanak University Nankana Sahib
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -324,7 +392,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Azeem-Shahid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Azeem-Shahid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 
 </div>
 
@@ -362,6 +430,7 @@
 | Production VPS Architect | 🏗️ |
 | Fintech Platform (45k+ Users) | 💳 |
 | AI-Integrated App Developer | 🤖 |
+| Final Year Project (VeriPay Trust Layer) | 🎓 |
 
 </div>
 
