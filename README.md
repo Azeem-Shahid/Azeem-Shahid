@@ -1,55 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=AZEEM%20SHAHID&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer%20%E2%80%A2%20Blockchain%20Engineer%20%E2%80%A2%20DevSecOps%20Builder&descAlignY=60" width="100%"/>
+# Azeem Shahid
 
-</div>
+### Full-Stack Engineer building production web applications, APIs & business systems.
 
-<div align="center">
+**Laravel · PHP · Node.js · Next.js · Vue.js · React · REST APIs · PostgreSQL · MySQL · Redis**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Fullstack+Developer+from+Pakistan;🚀+Laravel+%7C+Vue.js+%7C+Next.js+%7C+Node.js;🔥+Building+Scalable+Web+%26+Mobile+Applications;💎+VeriPay+%E2%80%94+Multi-Tenant+Crypto+Payment+Gateway+%28FYP%29;🛡️+DevSecOps+Platform+Builder+%7C+SecureOps;⚙️+Docker+%7C+CI%2FCD+%7C+GitHub+Actions+%7C+Linux;🤖+AI-Powered+Security+with+Claude+API;🌍+Working+with+International+Clients;✨+Creating+Modern+Digital+Experiences" />
+**Docker · Linux · Nginx · VPS · GitHub Actions · CI/CD**
+
+<br />
+
+<a href="https://github.com/Azeem-Shahid">
+  <img src="https://img.shields.io/badge/GitHub-Azeem--Shahid-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/azeemshahid">
+  <img src="https://img.shields.io/badge/LinkedIn-Azeem%20Shahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://web.linkndoo.com/">
+  <img src="https://img.shields.io/badge/Portfolio-FindUpNow-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-<img src="https://komarev.com/ghpvc/?username=Azeem-Shahid&label=Profile%20Views&color=00c2ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Azeem-Shahid?style=for-the-badge&color=00c2ff&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/Azeem-Shahid?style=for-the-badge&color=00c2ff&labelColor=000000" />
+I'm a **Full-Stack Engineer / Backend Developer** with 2+ years of professional development experience building web applications, REST APIs, database-driven systems, integrations, and business software.
 
-</div>
+I work primarily with **Laravel/PHP, Node.js, Next.js, Vue.js, React, PostgreSQL, MySQL, and Redis**, with experience across backend development, frontend integration, databases, APIs, and third-party services.
+
+I also work with **Linux, VPS environments, Docker, Nginx, GitHub Actions, CI/CD, deployment, server management, and production maintenance**.
+
+I've worked on and supported a live fintech platform serving **45,000+ active users**, alongside projects in fintech, logistics, e-commerce, university systems, and other business applications.
 
 ---
 
-# 🌙 About Me
+# Core Engineering
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%" valign="top">
 
-### 🚀 Professional Summary
+### Backend
 
-✨ Passionate Fullstack Developer focused on building scalable and high-performance applications.
-
-🌍 Delivered production-level projects for international clients across multiple countries.
-
-⚡ Specialized in modern backend architectures, frontend systems, and cloud deployment.
-
-🔗 Building VeriPay — a multi-tenant crypto payment gateway with a research-grade Trust & Integrity Layer (FYP).
-
-🛡️ Building DevSecOps platforms with automated security scanning pipelines and AI-powered vulnerability analysis.
-
-💡 Obsessed with performance optimization, clean code, and scalable APIs.
-
-🛠 Skilled in Linux servers, VPS management, CI/CD workflows and production deployments.
+* Laravel / PHP
+* Node.js
+* REST API development
+* Authentication & authorization
+* JWT / OAuth
+* RBAC
+* Database design
+* Database optimization
+* Queue management
+* Payment integrations
+* Third-party API integrations
 
 </td>
-<td width="40%">
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:20px;"/>
-</div>
+<td width="50%" valign="top">
+
+### Frontend
+
+* Next.js
+* Vue.js
+* React
+* JavaScript
+* TypeScript
+* Inertia.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Data
+
+* PostgreSQL
+* MySQL
+* Redis
+
+</td>
+
+<td width="50%" valign="top">
+
+### Production Engineering
+
+* Linux
+* VPS
+* Docker
+* Nginx
+* GitHub Actions
+* CI/CD
+* Deployment
+* Server management
+* Production maintenance
 
 </td>
 </tr>
@@ -57,421 +103,338 @@
 
 ---
 
-# ⚡ Tech Universe
+# Production Experience
 
-<div align="center">
+## Live Fintech Platform
 
-<img src="https://skillicons.dev/icons?i=laravel,php,vue,nodejs,nextjs,mysql,postgres,docker,nginx,linux,git,github,postman,tailwind,bootstrap,js,html,css&perline=10" />
+I've worked on and supported a live fintech platform serving **45,000+ active users**.
 
-</div>
+My work has included:
 
----
+* Platform customization and maintenance
+* Backend and application development
+* Third-party service integrations
+* Server and infrastructure management
+* Linux / VPS environments
+* Production deployments
+* Ongoing technical improvements
+* Production issue investigation and maintenance
 
-# 🎨 Frontend Arsenal
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
-
-</div>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Azeem-Shahid&theme=tokyonight&hide_border=true" width="90%"/>
-</p>
+This experience has given me exposure to software that is actively used in production, including development, deployment, maintenance, and infrastructure responsibilities.
 
 ---
 
-# ⚙️ Backend Engineering
+# Selected Projects
 
-<div align="center">
+## FindUpNow
 
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres" />
+### Full-Stack Multi-Platform Application
 
-</div>
+🔗 **https://web.linkndoo.com/**
 
-<table>
-<tr>
-<td width="50%">
+FindUpNow is a multi-platform application developed with an international team and currently under development.
 
-### 🔥 Backend Expertise
+**Technology**
 
-- REST API Development
-- Authentication Systems (JWT, OAuth)
-- Database Design & Optimization
-- Payment Gateway Integration
-- Queue Management
-- Secure Backend Architecture
-- Scalable Server Infrastructure
+`React Native` · `Next.js` · `Node.js` · `REST APIs`
 
-</td>
-<td width="50%">
+**Focus**
 
-<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/assets/cards/1-repos-per-language.svg" width="100%"/>
-
-</td>
-</tr>
-</table>
+* Web application development
+* Mobile application development
+* Backend services
+* REST API integration
+* Cross-platform development
+* International team collaboration
 
 ---
 
-# 🛡️ DevSecOps & Security
+## VeriPay
 
-<div align="center">
+### Multi-Tenant USDT Payment Infrastructure
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/Semgrep-FC4B08?style=for-the-badge&logo=semgrep&logoColor=white" />
-<img src="https://img.shields.io/badge/Gitleaks-FF0000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+**Final Year Project / Academic Research**
 
-</div>
+VeriPay is a self-hosted, multi-tenant USDT payment gateway supporting **TRC-20 and BEP-20** payments.
 
-<br/>
+The project focuses on backend engineering, tenant isolation, secure APIs, payment infrastructure, blockchain integrations, and a research-oriented Trust & Integrity Layer.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/pipeline.png" width="100%"/>
-</div>
+**Technology**
 
----
+`Laravel 11` · `PHP 8.2` · `Inertia.js` · `Vue 3.5` · `Pinia`
+`Redis` · `Laravel Horizon` · `MySQL 8`
+`TronGrid` · `BscScan` · `BSC RPC`
 
-# 📱 Mobile Development
+**Backend & Infrastructure**
 
-<div align="center">
+* Multi-tenant architecture
+* TRC-20 and BEP-20 payment processing
+* HMAC-SHA256 signed APIs
+* Encrypted wallet keys
+* Tenant isolation
+* Rate limiting
+* Retryable webhooks
+* Exponential backoff
+* Dead-letter queue
+* Blockchain reconciliation
+* Rule-based anomaly detection
 
-<img src="https://skillicons.dev/icons?i=dart" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-</div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&text=Cross%20Platform%20Mobile%20Applications&fontSize=28&fontColor=ffffff&animation=blinking" width="100%"/>
-</p>
+**Status:** Final Year Project / Academic Research
 
 ---
 
-# 🚀 Professional Journey
+## Johnstown Courier
 
-<div align="center">
+### Same-Day Courier Web Application
 
-| Year | Company | Role | Focus |
-|:----:|:--------|:-----|:------|
-| 2023 | BGNU IT Department | IT Intern | CMS Modules & Job Portal |
-| 2024 | Novatechshole | Fullstack Developer | APIs, Fintech & Web Systems |
-| 2025 | Inverzo Tech | Fullstack Developer | Blockchain + DevSecOps |
-| 2025–2026 | BGNU (FYP) | Student / Researcher | VeriPay — crypto gateway + trust & integrity layer |
+🔗 **https://johnstowncourier.com/**
 
-</div>
+A real-world web application built around the courier and logistics domain.
+
+The project demonstrates practical software development for a business use case and experience delivering a complete web presence for a real-world service.
 
 ---
 
-# 🌍 Featured Projects
+## AromaAmbient
 
-<div align="center">
+### E-commerce Web Project
 
-<table>
-<tr>
-<td width="33%" valign="top">
+🔗 **https://aromaambient.com/**
 
-## 🛡️ SecureOps
+A real-world e-commerce project focused on presenting products and providing an online shopping experience.
+
+The project includes business-facing product and shopping functionality.
+
+---
+
+## Tapas
+
+### Restaurant / Business Web Application
+
+🔗 **https://tapas.leadlife.net/**
+
+A business-facing web application with functionality around:
+
+* Restaurant information
+* Menu
+* Special menus
+* Gallery
+* Comments
+* Reservation-related functionality
+
+---
+
+## Reffinatto
+
+### Bespoke Interior Design Brand
+
+🔗 **https://reffinatto.com/**
+
+A real-world business website developed for a bespoke interior design brand.
+
+The project demonstrates practical web development and delivery for a real business.
+
+---
+
+## SecureOps
+
 ### DevSecOps Security Platform
 
-| Feature | Detail |
-|:--------|:-------|
-| 🔍 Scanners | 5 security scanners |
-| 🤖 AI | Claude-powered vuln analysis |
-| 📊 Dashboard | Centralized, real-time |
-| 🔒 Access | Role-based control (RBAC) |
-| 📄 Reports | PDF export |
-| ⚙️ CI/CD | GitHub Actions integration |
+**Academic / Research Project**
 
-🎓 **Status: Academic / Research Project**
+SecureOps is a technical project focused on automated security scanning and development workflows.
 
-</td>
-<td width="33%" valign="top">
+**Technology**
 
-## 🔐 VeriPay
-### Multi-Tenant Crypto Payment Gateway
+`Node.js` · `Express` · `Prisma` · `Next.js`
+`PostgreSQL` · `Docker` · `Docker Compose`
+`Nginx` · `Let's Encrypt` · `GitHub Actions`
+`Anthropic Claude API` · `Puppeteer`
 
-| Feature | Detail |
-|:--------|:-------|
-| ✨ BEP-20 | Binance Smart Chain (BscScan + RPC) |
-| ✨ TRC-20 | TRON network (TronGrid) |
-| 🛡️ Trust Layer | Anomaly detection + reconciliation + trust scoring |
-| 🧪 Injection Harness | Synthetic fraud injection for detection-rate benchmarking |
-| 🔑 Security | HMAC-signed APIs, encrypted wallets, rate limiting |
-| 🧵 Stack | Laravel 11, Inertia.js, Vue 3, MySQL, Redis, Horizon |
+**Security Tooling**
 
-🎓 **Status: Final Year Project (BS Computer Science) — Academic/Research**
+`SonarQube` · `Trivy` · `OWASP Dependency Check` · `Gitleaks` · `Semgrep`
 
-</td>
-<td width="33%" valign="top">
-
-## 📱 FindUpNow
-### Multi-Platform Application
-
-| Feature | Detail |
-|:--------|:-------|
-| 📱 Mobile | React Native |
-| 🌐 Web | Next.js |
-| ⚙️ Backend | Node.js |
-| 🔗 Integration | REST APIs |
-
-🌍 **Built with International Team**
-⚡ **Status: Under Development**
-
-</td>
-</tr>
-</table>
-
-</div>
+SecureOps demonstrates supporting experience with secure development workflows, CI/CD, containerization, and automated security tooling.
 
 ---
 
-# 🌐 Live Projects
+# Live / Real-World Projects
 
-<div align="center">
-
-| Project | Description |
-|:--------|:------------|
-| [Reffinatto](https://reffinatto.com) | Bespoke interior design brand |
-| [Johnstown Courier](https://johnstowncourier.com) | Same-day courier web app |
-| [Quality Used Organs](https://quality-organ.leadlife.net) | Used auto organs marketplace |
-
-</div>
+| Project                 | Type                              | Link                                                              |
+| ----------------------- | --------------------------------- | ----------------------------------------------------------------- |
+| **FindUpNow**           | Multi-platform application        | [web.linkndoo.com](https://web.linkndoo.com/)                     |
+| **Johnstown Courier**   | Courier / logistics web app       | [johnstowncourier.com](https://johnstowncourier.com/)             |
+| **AromaAmbient**        | E-commerce                        | [aromaambient.com](https://aromaambient.com/)                     |
+| **Tapas**               | Restaurant / business application | [tapas.leadlife.net](https://tapas.leadlife.net/)                 |
+| **Reffinatto**          | Interior design business website  | [reffinatto.com](https://reffinatto.com/)                         |
+| **Quality Used Organs** | Business web project              | [quality-organ.leadlife.net](https://quality-organ.leadlife.net/) |
 
 ---
 
-# 🛡️ SecureOps — Deep Dive
+# Professional Experience
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1A2E&height=80&text=Automated%20Security%20Scanning%20%7C%20AI-Powered%20Insights%20%7C%20DevSecOps&fontSize=18&fontColor=00F7FF&animation=fadeIn" width="100%"/>
-</p>
+## Novatechshole / Freelance Team
+
+**Fullstack Developer · 2024–2025**
+
+Worked across full-stack development and production systems, including:
+
+* Laravel development
+* JavaScript frameworks
+* REST APIs
+* JWT authentication
+* RBAC
+* Fintech and web systems
+* Production server / infrastructure work
+* Linux / VPS environments
+* Deployment and maintenance
+* International team and client work
+
+---
+
+## BGNU IT Department
+
+**IT Intern · 2023–2024**
+
+Worked on university web and IT systems, including the university's website ecosystem and internal/public-facing modules.
+
+### Key Work
+
+* **University Job Portal**
+* **CMS / university web systems**
+* University website content and module development
+* Online admissions-related functionality
+* Fee installment / payment scheduling
+* Course and teacher feedback modules
+* CMS functionality
+* Laravel
+* Livewire
+* MySQL
+
+The university's published documentation describes its CMS and web-development work as part of its wider digitization effort and specifically identifies the **Job Portal** as a designed university system.
+
+🔗 **BGNU:** https://bgnu.edu.pk/
+
+---
+
+## Fiverr
+
+**Freelance Developer · 2022–Present**
+
+Working with international clients on:
+
+* Full-stack development
+* Backend development
+* Web applications
+* REST APIs
+* Third-party integrations
+* Custom software
+* Production maintenance
+
+---
+
+# Technical Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔧 Tech Stack
-
-| Layer | Technology |
-|:------|:-----------|
-| Backend | Node.js · Express · Prisma |
-| Frontend | Next.js + Nginx |
-| Database | PostgreSQL 15 |
-| Infrastructure | Docker · Docker Compose |
-| Proxy / TLS | Nginx + Let's Encrypt |
-| CI/CD | GitHub Actions |
-| AI | Anthropic Claude API |
-| Reports | Puppeteer (PDF) |
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 Security Scanners
-
-| Tool | Purpose |
-|:-----|:--------|
-| SonarQube | SAST / Code quality |
-| Trivy | Container image scanning |
-| OWASP Dep-Check | CVE / dependency audit |
-| Gitleaks | Hardcoded secrets detection |
-| Semgrep | Advanced SAST rules |
-
-</td>
+<td><strong>Backend</strong></td>
+<td>Laravel · PHP · Node.js · REST APIs</td>
 </tr>
-</table>
 
-### ⚙️ CI/CD Pipeline Flow
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/cicd-flow.png" width="100%"/>
-</div>
-
-### 👥 Role-Based Access Control
-
-<div align="center">
-
-| Action | Super Admin | Project Manager | Developer | Viewer |
-|:-------|:-----------:|:---------------:|:---------:|:------:|
-| Create users | ✅ | ❌ | ❌ | ❌ |
-| Invite to project | ✅ | ✅ | ❌ | ❌ |
-| Trigger scans | ✅ | ✅ | ✅ | ❌ |
-| Change vuln status | ✅ | ✅ | ✅ | ❌ |
-| View audit log | ✅ | ✅ | ✅ | ❌ |
-| Export reports | ✅ | ✅ | ✅ | ✅ |
-
-</div>
-
-### 🏗️ Infrastructure Architecture
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/infrastructure.png" width="100%"/>
-</div>
-
----
-
-# 🔐 VeriPay — Deep Dive
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1A2E&height=80&text=Multi-Tenant%20USDT%20Gateway%20%7C%20Trust%20%26%20Integrity%20Layer%20%7C%20TRC-20%20%2B%20BEP-20&fontSize=18&fontColor=00F7FF&animation=fadeIn" width="100%"/>
-</p>
-
-Self-hosted, multi-tenant USDT payment gateway supporting TRC-20 and BEP-20, built with a research-grade **Trust & Integrity Layer** as its core academic contribution.
-
-<table>
 <tr>
-<td width="50%" valign="top">
+<td><strong>Frontend</strong></td>
+<td>Next.js · Vue.js · React · JavaScript · TypeScript</td>
+</tr>
 
-### 🔧 Tech Stack
+<tr>
+<td><strong>Databases</strong></td>
+<td>PostgreSQL · MySQL · Redis</td>
+</tr>
 
-| Layer | Technology |
-|:------|:-----------|
-| Backend | Laravel 11, PHP 8.2 |
-| SPA | Inertia.js + Vue 3.5 + Pinia |
-| Queues | Redis + Laravel Horizon |
-| DB | MySQL 8 |
-| Static Analysis | Larastan (level 6) |
-| Blockchain | TronGrid API (TRC-20), BscScan + BSC RPC (BEP-20) |
+<tr>
+<td><strong>Infrastructure</strong></td>
+<td>Linux · VPS · Docker · Nginx</td>
+</tr>
 
-</td>
-<td width="50%" valign="top">
+<tr>
+<td><strong>DevOps</strong></td>
+<td>GitHub Actions · CI/CD · Deployment</td>
+</tr>
 
-### 🛡️ Trust & Integrity Layer
+<tr>
+<td><strong>APIs & Integrations</strong></td>
+<td>REST APIs · Payment Integrations · Third-Party APIs</td>
+</tr>
 
-| Component | Purpose |
-|:----------|:--------|
-| Security Audit Engine | Scheduled Larastan + Composer Audit, stored findings |
-| Rule-Based Anomaly Detection | Velocity, amount deviation, rapid-repeat address, time-of-day, webhook spike, dormant wallet |
-| Blockchain Reconciliation | On-chain vs off-chain diff (7-day lookback) |
-| Composite Merchant Trust Score | Penalty model, 0–100 (A≥90, B≥75, C≥60, D≥40, F&lt;40) |
-| Synthetic Fraud Injection | `trust:inject` — detection-rate benchmarking |
-
-</td>
+<tr>
+<td><strong>Supporting</strong></td>
+<td>Fintech · Blockchain Integrations · AI Integrations · Automation · DevSecOps</td>
 </tr>
 </table>
 
-### 🔑 Security Highlights
+---
 
-- HMAC-SHA256 signed API requests with ±300s replay window
-- Wallet private keys encrypted at rest (AES via Laravel `Crypt`)
-- Global `MerchantScope` enforcing tenant isolation across all models
-- Retryable webhooks with exponential backoff + dead-letter queue
-- Rate limiting per API key and per IP
+# Supporting Engineering Experience
 
-🎓 **Status:** Final Year Project — Baba Guru Nanak University Nankana Sahib
+Alongside my primary full-stack and backend work, I have experience working with:
+
+* Fintech systems
+* Payment integrations
+* Blockchain integrations
+* AI integrations
+* Business automation
+* DevSecOps
+* Docker-based deployments
+* Linux server management
+* VPS infrastructure
+
+These are supporting capabilities that complement my core software engineering work.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/main/assets/cards/0-profile-details.svg"/>
-
-</div>
+# GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats-dun.vercel.app/api?username=Azeem-Shahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+
 <img src="https://github-readme-stats-dun.vercel.app/api/top-langs/?username=Azeem-Shahid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# Education
 
-<div align="center">
+## Baba Guru Nanak University
 
-<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Azeem-Shahid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+**BS Computer Science**
 
-</div>
+**CGPA:** 3.56 / 4.0
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azeem-Shahid&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Azeem-Shahid/Azeem-Shahid/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-</div>
+**Expected Graduation:** 2026
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Badge |
-|:------------|:-----:|
-| Fiverr Level 1 Seller | ✅ |
-| International Clients (NL & PH) | 🌍 |
-| Blockchain Developer | 🔗 |
-| Fullstack Engineer | ⚡ |
-| DevSecOps Platform Builder | 🛡️ |
-| Production VPS Architect | 🏗️ |
-| Fintech Platform (45k+ Users) | 💳 |
-| AI-Integrated App Developer | 🤖 |
-| Final Year Project (VeriPay Trust Layer) | 🎓 |
-
-</div>
-
----
-
-# 🎓 Education
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BS%20Computer%20Science-0A192F?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-3.56%20%2F%204.0-00C2FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Expected%20Graduation-2026-00C2FF?style=for-the-badge" />
-
-### 🏫 Baba Guru Nanak University
-
-</div>
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HEC%20Pakistan%20NSCT-71%2F100-success?style=for-the-badge" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/azeemshahid">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Azeem%20Shahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:raiazeem.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-raiazeem.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/Azeem-Shahid">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Azeem--Shahid-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://web.linkndoo.com/">
+<img src="https://img.shields.io/badge/Portfolio-FindUpNow-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -480,6 +443,6 @@ Self-hosted, multi-tenant USDT payment gateway supporting TRC-20 and BEP-20, bui
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&animation=fadeIn" width="100%"/>
+**Building practical software — from backend APIs and databases to production web applications.**
 
 </div>
