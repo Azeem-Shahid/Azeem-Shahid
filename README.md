@@ -1,73 +1,100 @@
-<div align="center">
-
 # Azeem Shahid
 
 ### Full-Stack Engineer · Backend Developer
 
 **Building production web applications, APIs, business systems & integrations.**
 
-<br>
+**3+ years of professional development experience** · **BS Computer Science**
 
-**Laravel · PHP · Node.js · Next.js · Vue.js · React · REST APIs · PostgreSQL · MySQL · Redis**
-
-<br>
-
-<a href="https://github.com/Azeem-Shahid">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/azeemshahid">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://web.linkndoo.com/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:raiazeem.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+[LinkedIn](https://linkedin.com/in/azeemshahid) · [Portfolio](https://web.linkndoo.com/) · [Email](mailto:raiazeem.dev@gmail.com)
 
 ---
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ## About
 
 I'm a **Full-Stack Engineer / Backend Developer** with **3+ years of professional development experience**, building and maintaining web applications, REST APIs, database-driven systems, integrations, and business software.
 
-My primary stack includes **Laravel/PHP, Node.js, Next.js, Vue.js, React, PostgreSQL, MySQL, and Redis**. I work across backend services, frontend applications, databases, APIs, third-party integrations, and production deployments.
+My primary stack includes **Laravel/PHP, Node.js, Next.js, Vue.js, React, PostgreSQL, MySQL, and Redis**.
 
-I also have hands-on experience with **Linux, VPS environments, Docker, Nginx, GitHub Actions, CI/CD, server management, and production maintenance**.
+I also work across **Linux, VPS environments, Docker, Nginx, GitHub Actions, CI/CD, deployment, and production maintenance**.
 
-I've worked on and supported a live fintech platform serving **45,000+ active users**, alongside software projects across fintech, logistics, e-commerce, university systems, and other business domains.
+I've worked on and supported a live fintech platform serving **45,000+ active users**, alongside projects across **fintech, logistics, e-commerce, university systems, and business software**.
+
+</td>
+
+<td width="38%" valign="top">
+
+## Core Stack
+
+**Backend**
+
+`Laravel` `PHP` `Node.js`
+
+**Frontend**
+
+`Next.js` `React` `Vue.js`
+
+**Languages**
+
+`JavaScript` `TypeScript`
+
+**Data**
+
+`PostgreSQL` `MySQL` `Redis`
+
+**APIs**
+
+`REST APIs` `JWT` `OAuth` `RBAC`
+
+**Infrastructure**
+
+`Linux` `VPS` `Docker` `Nginx`
+
+**Delivery**
+
+`GitHub Actions` `CI/CD`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## What I Build
 
-* **Backend systems & REST APIs**
-* **Full-stack web applications**
-* **Database-driven business systems**
-* **Third-party API integrations**
-* **Payment & fintech integrations**
-* **E-commerce applications**
-* **CMS & business portals**
-* **Production deployments & server environments**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Backend Systems
 
-## Core Engineering
+* REST APIs
+* Authentication & authorization
+* Database-driven systems
+* Queue-based processing
+* Third-party integrations
+* Payment integrations
 
-| Area                 | Technologies                                                  |
-| -------------------- | ------------------------------------------------------------- |
-| **Backend**          | Laravel · PHP · Node.js                                       |
-| **Frontend**         | Next.js · Vue.js · React                                      |
-| **Languages**        | PHP · JavaScript · TypeScript                                 |
-| **APIs**             | REST APIs · Third-party Integrations                          |
-| **Databases**        | PostgreSQL · MySQL                                            |
-| **Caching / Queues** | Redis                                                         |
-| **Infrastructure**   | Linux · VPS · Docker · Nginx                                  |
-| **CI/CD**            | GitHub Actions · Deployment · CI/CD                           |
-| **Authentication**   | JWT · OAuth · RBAC                                            |
-| **Supporting**       | Fintech · Payments · Blockchain · AI · Automation · DevSecOps |
+</td>
+
+<td width="50%" valign="top">
+
+### Full-Stack Applications
+
+* Business web applications
+* E-commerce systems
+* CMS & portals
+* Cross-platform applications
+* Production deployments
+* Server & infrastructure management
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,7 +102,7 @@ I've worked on and supported a live fintech platform serving **45,000+ active us
 
 ## Live Fintech Platform
 
-I've worked on and supported a live fintech platform serving **45,000+ active users**.
+I've worked on and supported a **live fintech platform serving 45,000+ active users**.
 
 My work has included:
 
@@ -83,220 +110,207 @@ My work has included:
 * Platform customization and maintenance
 * Third-party service integrations
 * Production deployments
-* Linux / VPS server environments
+* Linux / VPS environments
 * Server and infrastructure management
 * Ongoing technical improvements
-* Production maintenance and troubleshooting
+* Production troubleshooting and maintenance
 
-Working on a live platform has given me experience beyond feature development, including deployment, maintenance, infrastructure, and supporting software used by real users.
+This experience includes working beyond feature development across **deployment, infrastructure, maintenance, and live production software**.
 
 ---
 
 # Selected Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 01 · FindUpNow
 
 ### Full-Stack Multi-Platform Application
 
-**Live:** https://web.linkndoo.com/
+Developed with an international team and currently under development.
 
-FindUpNow is a multi-platform application developed with an international team and currently under development.
-
-**Technology**
+**Stack**
 
 `React Native` · `Next.js` · `Node.js` · `REST APIs`
 
 **Focus**
 
-* Web application development
-* Mobile application development
-* Backend services
-* REST API integration
-* Cross-platform development
-* International team collaboration
+Web application development, mobile development, backend services, REST APIs and cross-platform development.
 
----
+**[Live Project →](https://web.linkndoo.com/)**
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 02 · VeriPay
 
 ### Multi-Tenant USDT Payment Infrastructure
 
-**Final Year Project · Academic / Research**
+**Academic / Research Project**
 
-VeriPay is a self-hosted, multi-tenant USDT payment gateway supporting **TRC-20 and BEP-20** payments.
+Self-hosted multi-tenant USDT payment gateway supporting **TRC-20 and BEP-20** payments.
 
-The project focuses on backend engineering, secure APIs, tenant isolation, payment infrastructure, blockchain integrations, and a research-oriented Trust & Integrity Layer.
+**Stack**
 
-**Technology**
-
-`Laravel 11` · `PHP 8.2` · `Inertia.js` · `Vue 3.5` · `Pinia`
-
-`Redis` · `Laravel Horizon` · `MySQL 8`
-
-`TronGrid` · `BscScan` · `BSC RPC`
+`Laravel 11` · `PHP 8.2` · `Inertia.js` · `Vue 3.5` · `Redis` · `MySQL 8`
 
 **Engineering**
 
-* Multi-tenant architecture
-* TRC-20 and BEP-20 payment processing
-* HMAC-SHA256 signed APIs
-* Encrypted wallet keys
-* Tenant isolation
-* Rate limiting
-* Retryable webhooks
-* Exponential backoff
-* Dead-letter queue
-* Blockchain reconciliation
-* Rule-based anomaly detection
+Multi-tenancy, signed APIs, encrypted wallet keys, tenant isolation, rate limiting, retryable webhooks, blockchain reconciliation and rule-based anomaly detection.
 
-**Status:** Final Year Project / Academic Research
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
 ## 03 · Johnstown Courier
 
 ### Same-Day Courier Web Application
 
-**Live:** https://johnstowncourier.com/
+A real-world web application built for the courier and logistics domain.
 
-A real-world web application built around the courier and logistics domain.
+Demonstrates practical software development and delivery for a real business use case.
 
-The project demonstrates practical software development for a real business use case and experience delivering software for a domain outside traditional portfolio projects.
+**[Live Project →](https://johnstowncourier.com/)**
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 04 · AromaAmbient
 
 ### E-commerce Web Project
 
-**Live:** https://aromaambient.com/
+A real-world e-commerce project focused on product presentation and online shopping.
 
-A real-world e-commerce project focused on presenting products and providing an online shopping experience.
+**[Live Project →](https://aromaambient.com/)**
 
-The project includes business-facing product and shopping functionality.
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
 ## 05 · Tapas
 
 ### Restaurant / Business Web Application
 
-**Live:** https://tapas.leadlife.net/
+Business-facing application covering restaurant information, menus, special menus, gallery, comments and reservation-related functionality.
 
-A business-facing web application with functionality around:
+**[Live Project →](https://tapas.leadlife.net/)**
 
-* Restaurant information
-* Menu
-* Special menus
-* Gallery
-* Comments
-* Reservation-related functionality
+</td>
 
----
+<td width="50%" valign="top">
 
 ## 06 · Reffinatto
 
-### Bespoke Interior Design Brand
+### Interior Design Business Website
 
-**Live:** https://reffinatto.com/
+A real-world website developed for a bespoke interior design brand.
 
-A real-world business website developed for a bespoke interior design brand.
+Demonstrates practical web development and delivery for a real business.
 
-The project demonstrates practical web development and delivery for a real business.
+**[Live Project →](https://reffinatto.com/)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 07 · SecureOps
 
-### DevSecOps Security Platform
+### DevSecOps Security Platform · Academic / Research
 
-**Academic / Research Project**
-
-SecureOps is a technical project focused on automated security scanning and development workflows.
+A technical project focused on automated security scanning and development workflows.
 
 **Technology**
 
-`Node.js` · `Express` · `Prisma` · `Next.js`
+`Node.js` · `Express` · `Prisma` · `Next.js` · `PostgreSQL`
 
-`PostgreSQL` · `Docker` · `Docker Compose`
-
-`Nginx` · `Let's Encrypt` · `GitHub Actions`
+`Docker` · `Docker Compose` · `Nginx` · `Let's Encrypt` · `GitHub Actions`
 
 `Anthropic Claude API` · `Puppeteer`
 
 **Security Tooling**
 
-`SonarQube` · `Trivy` · `OWASP Dependency Check`
-
-`Gitleaks` · `Semgrep`
-
-SecureOps demonstrates supporting experience with secure development workflows, CI/CD, containerization, and automated security tooling.
-
----
-
-# Real-World Work
-
-A selection of live projects and business applications I've worked on:
-
-| Project                 | Domain                     | Link                                |
-| ----------------------- | -------------------------- | ----------------------------------- |
-| **FindUpNow**           | Multi-platform application | https://web.linkndoo.com/           |
-| **Johnstown Courier**   | Logistics / Courier        | https://johnstowncourier.com/       |
-| **AromaAmbient**        | E-commerce                 | https://aromaambient.com/           |
-| **Tapas**               | Restaurant / Business      | https://tapas.leadlife.net/         |
-| **Reffinatto**          | Interior Design            | https://reffinatto.com/             |
-| **Quality Used Organs** | Business Web Application   | https://quality-organ.leadlife.net/ |
+`SonarQube` · `Trivy` · `OWASP Dependency Check` · `Gitleaks` · `Semgrep`
 
 ---
 
 # Professional Experience
 
-## Novatechshole / Freelance Team
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Fullstack Developer · 2024–2025**
+### Novatechshole / Freelance Team
 
-Worked across full-stack development and production systems, including:
+**Fullstack Developer**
+2024–2025
 
-* Laravel development
-* JavaScript frameworks
+</td>
+
+<td width="67%" valign="top">
+
+Worked across full-stack development and production systems.
+
+* Laravel & JavaScript frameworks
 * REST APIs
-* JWT authentication
-* RBAC
+* JWT authentication & RBAC
 * Fintech and web systems
-* Production server / infrastructure work
 * Linux / VPS environments
-* Deployment and maintenance
+* Production deployment & maintenance
 * International team and client work
 
----
+</td>
+</tr>
 
-## BGNU IT Department
+<tr>
+<td width="33%" valign="top">
 
-**IT Intern · 2023–2024**
+### BGNU IT Department
 
-Worked on university web and IT systems, including the university's CMS, Job Portal, and other web-based modules.
+**IT Intern**
+2023–2024
 
-### Key Work
+</td>
 
-* University **Job Portal**
-* University **CMS / web systems**
-* Website and web module development
-* Online admissions-related functionality
+<td width="67%" valign="top">
+
+Worked on university web and IT systems, including the university **CMS and Job Portal**.
+
+* CMS / web systems
+* University Job Portal
+* Website and web modules
+* Admissions-related functionality
 * Fee installment / payment scheduling
 * Course and teacher feedback modules
-* Laravel
-* Livewire
-* MySQL
+* Laravel · Livewire · MySQL
 
-**University:** https://bgnu.edu.pk/
+**[BGNU →](https://bgnu.edu.pk/)**
 
----
+</td>
+</tr>
 
-## Fiverr
+<tr>
+<td width="33%" valign="top">
 
-**Freelance Developer · 2022–Present**
+### Fiverr
 
-Working with international clients on:
+**Freelance Developer**
+2022–Present
+
+</td>
+
+<td width="67%" valign="top">
+
+Working with international clients across:
 
 * Full-stack development
 * Backend development
@@ -306,130 +320,137 @@ Working with international clients on:
 * Custom software
 * Production maintenance
 
+</td>
+</tr>
+</table>
+
 ---
 
-# Backend Engineering
+# Engineering Focus
 
-My backend work includes:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* REST API development
+### Backend
+
+* Laravel / PHP
+* Node.js
+* REST APIs
 * Authentication & authorization
-* JWT
-* OAuth
+* JWT / OAuth
 * RBAC
 * Database design
 * Database optimization
-* Queue management
-* Payment gateway integration
-* Third-party API integration
-* Secure backend development
-* Linux / VPS environments
-* Production server infrastructure
+* Queues & background processing
+* Payment integrations
+* Third-party APIs
 
----
+</td>
 
-# Full-Stack Development
+<td width="50%" valign="top">
 
-I work across the application stack, from backend services and databases to frontend applications and production deployment.
+### Production
 
-```text
-Frontend
-Next.js · Vue.js · React · JavaScript · TypeScript
-                         │
-                         ▼
-Backend
-Laravel · PHP · Node.js · REST APIs
-                         │
-                         ▼
-Data
-PostgreSQL · MySQL · Redis
-                         │
-                         ▼
-Infrastructure
-Linux · VPS · Docker · Nginx
-                         │
-                         ▼
-Delivery
-GitHub Actions · CI/CD · Deployment
-```
+* Linux
+* VPS
+* Docker
+* Nginx
+* GitHub Actions
+* CI/CD
+* Deployment
+* Server management
+* Production maintenance
+* Troubleshooting
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Supporting Experience
 
-Beyond my primary full-stack and backend work, I have worked with:
+My primary focus is **full-stack and backend engineering**, with additional hands-on experience in:
 
-* **Fintech** — production financial platforms and integrations
-* **Payment Systems** — payment gateway development and integrations
-* **Blockchain** — TRC-20 / BEP-20 integrations
-* **AI Integrations** — integrating AI capabilities into applications
-* **Automation** — workflow and business process automation
-* **DevSecOps** — security tooling, CI/CD, and containerized workflows
+`Fintech` · `Payment Systems` · `Blockchain`
 
-These are supporting capabilities around my core software engineering work.
+`AI Integrations` · `Automation` · `DevSecOps`
+
+These capabilities support my work building and maintaining practical business software and production systems.
+
+---
+
+# Real-World Work
+
+| Project                 | Domain                     | Link                                                              |
+| ----------------------- | -------------------------- | ----------------------------------------------------------------- |
+| **FindUpNow**           | Multi-platform application | [web.linkndoo.com](https://web.linkndoo.com/)                     |
+| **Johnstown Courier**   | Logistics / Courier        | [johnstowncourier.com](https://johnstowncourier.com/)             |
+| **AromaAmbient**        | E-commerce                 | [aromaambient.com](https://aromaambient.com/)                     |
+| **Tapas**               | Restaurant / Business      | [tapas.leadlife.net](https://tapas.leadlife.net/)                 |
+| **Reffinatto**          | Interior Design            | [reffinatto.com](https://reffinatto.com/)                         |
+| **Quality Used Organs** | Business Web Application   | [quality-organ.leadlife.net](https://quality-organ.leadlife.net/) |
+| **BGNU**                | University Web Systems     | [bgnu.edu.pk](https://bgnu.edu.pk/)                               |
 
 ---
 
 # Currently
 
 * Building and maintaining production web applications
-* Working across Laravel, PHP, Node.js, Next.js and Vue.js
+* Working across **Laravel, PHP, Node.js, Next.js and Vue.js**
 * Building APIs, integrations and database-driven systems
-* Working with Linux, VPS, Docker and CI/CD environments
+* Working with **Linux, VPS, Docker and CI/CD**
+* Continuing to build practical backend and full-stack systems
 * Open to **remote Backend Developer, Full-Stack Engineer and Software Engineer opportunities**
 
 ---
 
 # Education
 
-## Baba Guru Nanak University
+### Baba Guru Nanak University
 
 **Bachelor of Science in Computer Science**
 
 **CGPA:** 3.56 / 4.0
-
 **Status:** Completed
 
 ---
 
 # GitHub Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats-dun.vercel.app/api?username=Azeem-Shahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<a href="https://github.com/Azeem-Shahid">
+<img src="https://github-readme-stats.vercel.app/api?username=Azeem-Shahid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+</a>
 
-<img src="https://github-readme-stats-dun.vercel.app/api/top-langs/?username=Azeem-Shahid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/Azeem-Shahid">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azeem-Shahid&layout=compact&hide_border=true" height="165"/>
+</a>
 
-</div>
+</p>
 
 ---
 
 # Connect
 
-<div align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/azeemshahid">
-<img src="https://img.shields.io/badge/LinkedIn-Azeem%20Shahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Azeem%20Shahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:raiazeem.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-raiazeem.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-raiazeem.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/Azeem-Shahid">
-<img src="https://img.shields.io/badge/GitHub-Azeem--Shahid-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+&nbsp;
 <a href="https://web.linkndoo.com/">
-<img src="https://img.shields.io/badge/Portfolio-FindUpNow-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-FindUpNow-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
-
-**Full-Stack Engineering · Backend Systems · APIs · Business Software**
-
-</div>
+<p align="center">
+<strong>Full-Stack Engineering · Backend Systems · APIs · Business Software</strong>
+</p>
